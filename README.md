@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Lolazorulez
-- 👀 I’m interested in videogames
-- 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate on almost anything
-- 📫 How to reach me on discord: Lolazorulez#2425
+
